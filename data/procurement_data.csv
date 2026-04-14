@@ -1,0 +1,519 @@
+tender_id,department,category,company_id,company_name,bid_amount,estimated_value,winner,director_name,date
+TND-1000,Defense,Medical Equipment,COMP004,Delta Engineering Co,18254832.21,19039735.88,1,Vikram Singh,2024-01-26
+TND-1000,Defense,Medical Equipment,COMP003,CrestLine Solutions,18687159.09,19039735.88,0,Neha Gupta,2024-01-26
+TND-1000,Defense,Medical Equipment,COMP012,Lumencraft Industries,18350049.26,19039735.88,0,Lakshmi Rao,2024-01-26
+TND-1000,Defense,Medical Equipment,COMP002,BlueHorizon Services,18350030.89,19039735.88,0,Amit Patel,2024-01-26
+TND-1001,Public Works,Consulting,COMP009,InfraPrime Ltd,3203452.87,3375138.8,1,Pooja Bhat,2024-08-26
+TND-1001,Public Works,Consulting,COMP004,Delta Engineering Co,3313143.27,3375138.8,0,Vikram Singh,2024-08-26
+TND-1001,Public Works,Consulting,COMP012,Lumencraft Industries,3220328.56,3375138.8,0,Amit Patel,2024-08-26
+TND-1002,IT & Digital,Supplies,COMP012,Lumencraft Industries,46273965.68,48510537.68,1,Lakshmi Rao,2024-01-07
+TND-1002,IT & Digital,Supplies,COMP007,GlobalEdge Infra,46516518.37,48510537.68,0,Deepa Verma,2024-01-07
+TND-1002,IT & Digital,Supplies,COMP006,FusionTech Systems,46519583.35,48510537.68,0,Ravi Nair,2024-01-07
+TND-1002,IT & Digital,Supplies,COMP005,Evergreen Constructions,46754059.49,48510537.68,0,Suresh Iyer,2024-01-07
+TND-1003,Public Works,Software,COMP010,JetStream Solutions,24611135.46,26475443.37,0,Rajesh Kumar,2024-04-09
+TND-1003,Public Works,Software,COMP005,Evergreen Constructions,23493480.88,26475443.37,0,Kavita Joshi,2024-04-09
+TND-1003,Public Works,Software,COMP013,Meridian Works,26040077.7,26475443.37,0,Kavita Joshi,2024-04-09
+TND-1003,Public Works,Software,COMP001,Apex Infrastructure Ltd,22288303.24,26475443.37,1,Priya Shah,2024-04-09
+TND-1003,Public Works,Software,COMP008,HighPoint Services,23500752.43,26475443.37,0,Lakshmi Rao,2024-04-09
+TND-1004,IT & Digital,Consulting,COMP013,Meridian Works,17457576.09,18634911.24,0,Kavita Joshi,2024-03-12
+TND-1004,IT & Digital,Consulting,COMP005,Evergreen Constructions,19297434.3,18634911.24,0,Kavita Joshi,2024-03-12
+TND-1004,IT & Digital,Consulting,COMP002,BlueHorizon Services,16024199.95,18634911.24,1,Suman Reddy,2024-03-12
+TND-1004,IT & Digital,Consulting,COMP004,Delta Engineering Co,17782742.93,18634911.24,0,Anand Mehta,2024-03-12
+TND-1005,Defense,Infrastructure,COMP011,KingsBridge Corp,24275225.32,29824521.16,1,Suman Reddy,2024-06-15
+TND-1005,Defense,Infrastructure,COMP005,Evergreen Constructions,29295537.22,29824521.16,0,Suresh Iyer,2024-06-15
+TND-1005,Defense,Infrastructure,COMP012,Lumencraft Industries,25385357.03,29824521.16,0,Lakshmi Rao,2024-06-15
+TND-1005,Defense,Infrastructure,COMP015,OmniGroup Services,24441656.71,29824521.16,0,Arun Sharma,2024-06-15
+TND-1006,Transport,Software,COMP002,BlueHorizon Services,38926826.05,47469834.09,1,Suman Reddy,2024-10-03
+TND-1006,Transport,Software,COMP009,InfraPrime Ltd,48902630.83,47469834.09,0,Pooja Bhat,2024-10-03
+TND-1006,Transport,Software,COMP004,Delta Engineering Co,42684854.88,47469834.09,0,Vikram Singh,2024-10-03
+TND-1006,Transport,Software,COMP011,KingsBridge Corp,40130748.51,47469834.09,0,Suman Reddy,2024-10-03
+TND-1006,Transport,Software,COMP006,FusionTech Systems,47370175.3,47469834.09,0,Ravi Nair,2024-10-03
+TND-1006,Transport,Software,COMP001,Apex Infrastructure Ltd,44357695.08,47469834.09,0,Rajesh Kumar,2024-10-03
+TND-1006,Transport,Software,COMP013,Meridian Works,40431478.99,47469834.09,0,Ravi Nair,2024-10-03
+TND-1006,Transport,Software,COMP010,JetStream Solutions,45036815.05,47469834.09,0,Vikram Singh,2024-10-03
+TND-1007,Defense,Maintenance,COMP012,Lumencraft Industries,2362545.73,2202231.8,0,Amit Patel,2024-05-26
+TND-1007,Defense,Maintenance,COMP009,InfraPrime Ltd,1932753.49,2202231.8,1,Pooja Bhat,2024-05-26
+TND-1007,Defense,Maintenance,COMP014,NovaTech Engineering,2199493.73,2202231.8,0,Neha Gupta,2024-05-26
+TND-1007,Defense,Maintenance,COMP005,Evergreen Constructions,1967723.45,2202231.8,0,Suresh Iyer,2024-05-26
+TND-1008,Health & Sanitation,Training,COMP014,NovaTech Engineering,25298949.2,26243367.05,0,Pooja Bhat,2025-05-20
+TND-1008,Health & Sanitation,Training,COMP002,BlueHorizon Services,22450054.64,26243367.05,1,Suman Reddy,2025-05-20
+TND-1008,Health & Sanitation,Training,COMP003,CrestLine Solutions,28628243.22,26243367.05,0,Priya Shah,2025-05-20
+TND-1009,Transport,Software,COMP005,Evergreen Constructions,41367179.5,38869074.76,0,Suresh Iyer,2025-09-02
+TND-1009,Transport,Software,COMP009,InfraPrime Ltd,40915730.21,38869074.76,0,Pooja Bhat,2025-09-02
+TND-1009,Transport,Software,COMP001,Apex Infrastructure Ltd,37914994.24,38869074.76,0,Priya Shah,2025-09-02
+TND-1009,Transport,Software,COMP011,KingsBridge Corp,41189064.93,38869074.76,0,Suman Reddy,2025-09-02
+TND-1009,Transport,Software,COMP002,BlueHorizon Services,31359815.26,38869074.76,1,Suman Reddy,2025-09-02
+TND-1009,Transport,Software,COMP014,NovaTech Engineering,33853236.16,38869074.76,0,Pooja Bhat,2025-09-02
+TND-1009,Transport,Software,COMP015,OmniGroup Services,32329706.45,38869074.76,0,Rajesh Kumar,2025-09-02
+TND-1010,IT & Digital,IT Services,COMP001,Apex Infrastructure Ltd,13796822.34,16603851.37,1,Rajesh Kumar,2025-06-03
+TND-1010,IT & Digital,IT Services,COMP014,NovaTech Engineering,14786572.26,16603851.37,0,Neha Gupta,2025-06-03
+TND-1010,IT & Digital,IT Services,COMP011,KingsBridge Corp,17192819.07,16603851.37,0,Deepa Verma,2025-06-03
+TND-1010,IT & Digital,IT Services,COMP009,InfraPrime Ltd,15155262.72,16603851.37,0,Arun Sharma,2025-06-03
+TND-1010,IT & Digital,IT Services,COMP010,JetStream Solutions,14827952.78,16603851.37,0,Rajesh Kumar,2025-06-03
+TND-1010,IT & Digital,IT Services,COMP004,Delta Engineering Co,15957977.85,16603851.37,0,Anand Mehta,2025-06-03
+TND-1010,IT & Digital,IT Services,COMP003,CrestLine Solutions,14223528.19,16603851.37,0,Neha Gupta,2025-06-03
+TND-1010,IT & Digital,IT Services,COMP006,FusionTech Systems,17078243.58,16603851.37,0,Anand Mehta,2025-06-03
+TND-1011,Public Works,Consulting,COMP001,Apex Infrastructure Ltd,3542929.62,4190256.86,1,Rajesh Kumar,2025-08-03
+TND-1011,Public Works,Consulting,COMP008,HighPoint Services,4277345.65,4190256.86,0,Lakshmi Rao,2025-08-03
+TND-1011,Public Works,Consulting,COMP002,BlueHorizon Services,3652504.76,4190256.86,0,Amit Patel,2025-08-03
+TND-1012,Education,Training,COMP015,OmniGroup Services,807865.7,773344.8,0,Arun Sharma,2025-09-13
+TND-1012,Education,Training,COMP009,InfraPrime Ltd,782669.18,773344.8,1,Pooja Bhat,2025-09-13
+TND-1012,Education,Training,COMP013,Meridian Works,787808.01,773344.8,0,Ravi Nair,2025-09-13
+TND-1012,Education,Training,COMP012,Lumencraft Industries,797613.21,773344.8,0,Amit Patel,2025-09-13
+TND-1013,Transport,Training,COMP002,BlueHorizon Services,3780093.75,4165210.26,0,Amit Patel,2025-04-07
+TND-1013,Transport,Training,COMP006,FusionTech Systems,3476953.91,4165210.26,1,Anand Mehta,2025-04-07
+TND-1013,Transport,Training,COMP001,Apex Infrastructure Ltd,4410670.38,4165210.26,0,Rajesh Kumar,2025-04-07
+TND-1013,Transport,Training,COMP010,JetStream Solutions,4111018.53,4165210.26,0,Rajesh Kumar,2025-04-07
+TND-1014,Defense,Construction,COMP014,NovaTech Engineering,13825410.83,16879452.23,1,Pooja Bhat,2024-08-22
+TND-1014,Defense,Construction,COMP006,FusionTech Systems,15078325.16,16879452.23,0,Ravi Nair,2024-08-22
+TND-1014,Defense,Construction,COMP002,BlueHorizon Services,15150236.69,16879452.23,0,Suman Reddy,2024-08-22
+TND-1015,Health & Sanitation,Training,COMP010,JetStream Solutions,34479417.39,36615505.83,1,Rajesh Kumar,2024-05-15
+TND-1015,Health & Sanitation,Training,COMP008,HighPoint Services,35178950.3,36615505.83,0,Lakshmi Rao,2024-05-15
+TND-1015,Health & Sanitation,Training,COMP004,Delta Engineering Co,34662494.92,36615505.83,0,Anand Mehta,2024-05-15
+TND-1015,Health & Sanitation,Training,COMP014,NovaTech Engineering,35531967.52,36615505.83,0,Neha Gupta,2024-05-15
+TND-1015,Health & Sanitation,Training,COMP007,GlobalEdge Infra,35601595.95,36615505.83,0,Mohan Das,2024-05-15
+TND-1015,Health & Sanitation,Training,COMP013,Meridian Works,35309392.71,36615505.83,0,Ravi Nair,2024-05-15
+TND-1015,Health & Sanitation,Training,COMP002,BlueHorizon Services,35616508.9,36615505.83,0,Amit Patel,2024-05-15
+TND-1016,Defense,Medical Equipment,COMP013,Meridian Works,23865844.6,24942882.02,0,Kavita Joshi,2024-03-03
+TND-1016,Defense,Medical Equipment,COMP014,NovaTech Engineering,23153537.17,24942882.02,0,Neha Gupta,2024-03-03
+TND-1016,Defense,Medical Equipment,COMP002,BlueHorizon Services,20144513.5,24942882.02,1,Amit Patel,2024-03-03
+TND-1016,Defense,Medical Equipment,COMP004,Delta Engineering Co,20761642.56,24942882.02,0,Anand Mehta,2024-03-03
+TND-1016,Defense,Medical Equipment,COMP012,Lumencraft Industries,20189485.96,24942882.02,0,Lakshmi Rao,2024-03-03
+TND-1017,Education,Maintenance,COMP001,Apex Infrastructure Ltd,27991803.71,32002315.36,1,Rajesh Kumar,2024-09-12
+TND-1017,Education,Maintenance,COMP013,Meridian Works,30473512.9,32002315.36,0,Kavita Joshi,2024-09-12
+TND-1017,Education,Maintenance,COMP009,InfraPrime Ltd,33793398.01,32002315.36,0,Arun Sharma,2024-09-12
+TND-1018,Energy,Consulting,COMP004,Delta Engineering Co,11852763.02,12839965.34,0,Vikram Singh,2024-06-19
+TND-1018,Energy,Consulting,COMP014,NovaTech Engineering,13182347.4,12839965.34,0,Neha Gupta,2024-06-19
+TND-1018,Energy,Consulting,COMP007,GlobalEdge Infra,11153300.43,12839965.34,0,Mohan Das,2024-06-19
+TND-1018,Energy,Consulting,COMP001,Apex Infrastructure Ltd,10568498.08,12839965.34,1,Priya Shah,2024-06-19
+TND-1018,Energy,Consulting,COMP003,CrestLine Solutions,11388091.86,12839965.34,0,Neha Gupta,2024-06-19
+TND-1018,Energy,Consulting,COMP013,Meridian Works,10892994.99,12839965.34,0,Ravi Nair,2024-06-19
+TND-1019,Defense,Training,COMP004,Delta Engineering Co,44327489.76,46520033.79,1,Vikram Singh,2025-11-08
+TND-1019,Defense,Training,COMP005,Evergreen Constructions,45834535.16,46520033.79,0,Kavita Joshi,2025-11-08
+TND-1019,Defense,Training,COMP015,OmniGroup Services,45708394.2,46520033.79,0,Arun Sharma,2025-11-08
+TND-1019,Defense,Training,COMP001,Apex Infrastructure Ltd,44560089.93,46520033.79,0,Rajesh Kumar,2025-11-08
+TND-1020,IT & Digital,Maintenance,COMP003,CrestLine Solutions,42904634.95,44681670.43,0,Neha Gupta,2025-05-29
+TND-1020,IT & Digital,Maintenance,COMP001,Apex Infrastructure Ltd,36779944.69,44681670.43,1,Rajesh Kumar,2025-05-29
+TND-1020,IT & Digital,Maintenance,COMP009,InfraPrime Ltd,47049072.35,44681670.43,0,Arun Sharma,2025-05-29
+TND-1020,IT & Digital,Maintenance,COMP002,BlueHorizon Services,40333290.63,44681670.43,0,Amit Patel,2025-05-29
+TND-1020,IT & Digital,Maintenance,COMP015,OmniGroup Services,37917468.75,44681670.43,0,Arun Sharma,2025-05-29
+TND-1020,IT & Digital,Maintenance,COMP012,Lumencraft Industries,39286945.94,44681670.43,0,Amit Patel,2025-05-29
+TND-1020,IT & Digital,Maintenance,COMP010,JetStream Solutions,41600781.01,44681670.43,0,Vikram Singh,2025-05-29
+TND-1021,Education,Consulting,COMP005,Evergreen Constructions,38873057.5,40991730.91,1,Kavita Joshi,2025-11-16
+TND-1021,Education,Consulting,COMP007,GlobalEdge Infra,39904073.59,40991730.91,0,Mohan Das,2025-11-16
+TND-1021,Education,Consulting,COMP003,CrestLine Solutions,39751032.93,40991730.91,0,Neha Gupta,2025-11-16
+TND-1021,Education,Consulting,COMP011,KingsBridge Corp,39430800.29,40991730.91,0,Suman Reddy,2025-11-16
+TND-1022,Public Works,Maintenance,COMP002,BlueHorizon Services,5641467.84,6433335.68,1,Amit Patel,2025-09-28
+TND-1022,Public Works,Maintenance,COMP009,InfraPrime Ltd,6852509.46,6433335.68,0,Pooja Bhat,2025-09-28
+TND-1022,Public Works,Maintenance,COMP004,Delta Engineering Co,5815946.23,6433335.68,0,Vikram Singh,2025-09-28
+TND-1023,Health & Sanitation,Infrastructure,COMP012,Lumencraft Industries,26465648.16,26180135.78,0,Amit Patel,2024-10-18
+TND-1023,Health & Sanitation,Infrastructure,COMP005,Evergreen Constructions,23800070.33,26180135.78,0,Suresh Iyer,2024-10-18
+TND-1023,Health & Sanitation,Infrastructure,COMP010,JetStream Solutions,28576524.69,26180135.78,0,Rajesh Kumar,2024-10-18
+TND-1023,Health & Sanitation,Infrastructure,COMP011,KingsBridge Corp,28503208.88,26180135.78,0,Deepa Verma,2024-10-18
+TND-1023,Health & Sanitation,Infrastructure,COMP009,InfraPrime Ltd,22921617.03,26180135.78,1,Arun Sharma,2024-10-18
+TND-1023,Health & Sanitation,Infrastructure,COMP001,Apex Infrastructure Ltd,24849518.64,26180135.78,0,Rajesh Kumar,2024-10-18
+TND-1023,Health & Sanitation,Infrastructure,COMP015,OmniGroup Services,23307219.13,26180135.78,0,Arun Sharma,2024-10-18
+TND-1024,Education,Supplies,COMP004,Delta Engineering Co,11841244.03,14599604.47,1,Anand Mehta,2025-09-11
+TND-1024,Education,Supplies,COMP011,KingsBridge Corp,14349503.03,14599604.47,0,Deepa Verma,2025-09-11
+TND-1024,Education,Supplies,COMP014,NovaTech Engineering,13881358.05,14599604.47,0,Pooja Bhat,2025-09-11
+TND-1024,Education,Supplies,COMP005,Evergreen Constructions,11905154.4,14599604.47,0,Suresh Iyer,2025-09-11
+TND-1024,Education,Supplies,COMP009,InfraPrime Ltd,12900122.03,14599604.47,0,Pooja Bhat,2025-09-11
+TND-1025,Energy,Supplies,COMP011,KingsBridge Corp,39634413.88,45459161.36,0,Deepa Verma,2024-02-15
+TND-1025,Energy,Supplies,COMP005,Evergreen Constructions,38343368.9,45459161.36,1,Kavita Joshi,2024-02-15
+TND-1025,Energy,Supplies,COMP003,CrestLine Solutions,43042362.69,45459161.36,0,Priya Shah,2024-02-15
+TND-1025,Energy,Supplies,COMP012,Lumencraft Industries,49809382.0,45459161.36,0,Lakshmi Rao,2024-02-15
+TND-1026,Public Works,IT Services,COMP010,JetStream Solutions,12502214.28,12481735.94,0,Rajesh Kumar,2025-07-12
+TND-1026,Public Works,IT Services,COMP009,InfraPrime Ltd,12837289.23,12481735.94,0,Pooja Bhat,2025-07-12
+TND-1026,Public Works,IT Services,COMP003,CrestLine Solutions,10875227.47,12481735.94,1,Neha Gupta,2025-07-12
+TND-1026,Public Works,IT Services,COMP007,GlobalEdge Infra,12712210.0,12481735.94,0,Deepa Verma,2025-07-12
+TND-1026,Public Works,IT Services,COMP013,Meridian Works,11362560.34,12481735.94,0,Ravi Nair,2025-07-12
+TND-1027,Health & Sanitation,Consulting,COMP015,OmniGroup Services,31483020.61,31799138.61,0,Arun Sharma,2025-11-13
+TND-1027,Health & Sanitation,Consulting,COMP014,NovaTech Engineering,30550462.92,31799138.61,0,Neha Gupta,2025-11-13
+TND-1027,Health & Sanitation,Consulting,COMP007,GlobalEdge Infra,26300651.96,31799138.61,0,Deepa Verma,2025-11-13
+TND-1027,Health & Sanitation,Consulting,COMP010,JetStream Solutions,33407880.84,31799138.61,0,Rajesh Kumar,2025-11-13
+TND-1027,Health & Sanitation,Consulting,COMP003,CrestLine Solutions,28499469.81,31799138.61,0,Neha Gupta,2025-11-13
+TND-1027,Health & Sanitation,Consulting,COMP004,Delta Engineering Co,27218649.28,31799138.61,0,Anand Mehta,2025-11-13
+TND-1027,Health & Sanitation,Consulting,COMP011,KingsBridge Corp,25828295.2,31799138.61,1,Suman Reddy,2025-11-13
+TND-1028,Education,IT Services,COMP014,NovaTech Engineering,29846460.01,29749200.69,0,Pooja Bhat,2024-04-20
+TND-1028,Education,IT Services,COMP008,HighPoint Services,23947402.95,29749200.69,1,Lakshmi Rao,2024-04-20
+TND-1028,Education,IT Services,COMP004,Delta Engineering Co,28369668.3,29749200.69,0,Anand Mehta,2024-04-20
+TND-1029,Education,Consulting,COMP007,GlobalEdge Infra,11636022.95,11711540.87,0,Mohan Das,2024-08-16
+TND-1029,Education,Consulting,COMP006,FusionTech Systems,9981862.56,11711540.87,1,Ravi Nair,2024-08-16
+TND-1029,Education,Consulting,COMP005,Evergreen Constructions,11796816.36,11711540.87,0,Kavita Joshi,2024-08-16
+TND-1029,Education,Consulting,COMP002,BlueHorizon Services,10728012.74,11711540.87,0,Suman Reddy,2024-08-16
+TND-1030,Public Works,Medical Equipment,COMP001,Apex Infrastructure Ltd,39428112.58,46868134.44,0,Priya Shah,2024-09-24
+TND-1030,Public Works,Medical Equipment,COMP002,BlueHorizon Services,42290050.63,46868134.44,0,Suman Reddy,2024-09-24
+TND-1030,Public Works,Medical Equipment,COMP010,JetStream Solutions,39089995.23,46868134.44,1,Rajesh Kumar,2024-09-24
+TND-1030,Public Works,Medical Equipment,COMP007,GlobalEdge Infra,50496107.0,46868134.44,0,Mohan Das,2024-09-24
+TND-1030,Public Works,Medical Equipment,COMP006,FusionTech Systems,49830285.18,46868134.44,0,Anand Mehta,2024-09-24
+TND-1031,Education,Construction,COMP011,KingsBridge Corp,13241510.85,13268110.57,0,Deepa Verma,2025-03-22
+TND-1031,Education,Construction,COMP012,Lumencraft Industries,13867386.81,13268110.57,0,Lakshmi Rao,2025-03-22
+TND-1031,Education,Construction,COMP014,NovaTech Engineering,12824428.18,13268110.57,0,Neha Gupta,2025-03-22
+TND-1031,Education,Construction,COMP013,Meridian Works,12722727.19,13268110.57,0,Ravi Nair,2025-03-22
+TND-1031,Education,Construction,COMP015,OmniGroup Services,11577165.34,13268110.57,0,Arun Sharma,2025-03-22
+TND-1031,Education,Construction,COMP004,Delta Engineering Co,10985077.8,13268110.57,1,Anand Mehta,2025-03-22
+TND-1031,Education,Construction,COMP006,FusionTech Systems,14185795.82,13268110.57,0,Ravi Nair,2025-03-22
+TND-1032,Defense,Software,COMP009,InfraPrime Ltd,44616851.65,45070693.83,0,Pooja Bhat,2024-11-30
+TND-1032,Defense,Software,COMP003,CrestLine Solutions,40640647.44,45070693.83,1,Priya Shah,2024-11-30
+TND-1032,Defense,Software,COMP004,Delta Engineering Co,40778290.41,45070693.83,0,Anand Mehta,2024-11-30
+TND-1032,Defense,Software,COMP007,GlobalEdge Infra,45872352.9,45070693.83,0,Mohan Das,2024-11-30
+TND-1032,Defense,Software,COMP011,KingsBridge Corp,48186569.62,45070693.83,0,Suman Reddy,2024-11-30
+TND-1033,Education,Supplies,COMP010,JetStream Solutions,45919086.32,44410778.0,0,Vikram Singh,2024-08-03
+TND-1033,Education,Supplies,COMP011,KingsBridge Corp,44082559.87,44410778.0,0,Suman Reddy,2024-08-03
+TND-1033,Education,Supplies,COMP006,FusionTech Systems,36649638.79,44410778.0,0,Anand Mehta,2024-08-03
+TND-1033,Education,Supplies,COMP008,HighPoint Services,37682039.48,44410778.0,0,Lakshmi Rao,2024-08-03
+TND-1033,Education,Supplies,COMP012,Lumencraft Industries,47500269.58,44410778.0,0,Amit Patel,2024-08-03
+TND-1033,Education,Supplies,COMP014,NovaTech Engineering,43608218.3,44410778.0,0,Pooja Bhat,2024-08-03
+TND-1033,Education,Supplies,COMP004,Delta Engineering Co,35651156.87,44410778.0,1,Vikram Singh,2024-08-03
+TND-1034,Defense,Supplies,COMP001,Apex Infrastructure Ltd,4399918.11,5522841.37,1,Priya Shah,2024-08-18
+TND-1034,Defense,Supplies,COMP015,OmniGroup Services,4535998.05,5522841.37,0,Rajesh Kumar,2024-08-18
+TND-1034,Defense,Supplies,COMP004,Delta Engineering Co,4759640.44,5522841.37,0,Vikram Singh,2024-08-18
+TND-1034,Defense,Supplies,COMP008,HighPoint Services,5316678.04,5522841.37,0,Lakshmi Rao,2024-08-18
+TND-1035,Transport,Software,COMP001,Apex Infrastructure Ltd,34595513.66,34748812.29,0,Rajesh Kumar,2024-09-06
+TND-1035,Transport,Software,COMP013,Meridian Works,30136977.47,34748812.29,1,Kavita Joshi,2024-09-06
+TND-1035,Transport,Software,COMP014,NovaTech Engineering,35223264.46,34748812.29,0,Pooja Bhat,2024-09-06
+TND-1035,Transport,Software,COMP002,BlueHorizon Services,30272287.03,34748812.29,0,Suman Reddy,2024-09-06
+TND-1035,Transport,Software,COMP007,GlobalEdge Infra,31191225.74,34748812.29,0,Deepa Verma,2024-09-06
+TND-1035,Transport,Software,COMP004,Delta Engineering Co,35580956.75,34748812.29,0,Anand Mehta,2024-09-06
+TND-1035,Transport,Software,COMP003,CrestLine Solutions,34571241.33,34748812.29,0,Neha Gupta,2024-09-06
+TND-1035,Transport,Software,COMP008,HighPoint Services,36651901.3,34748812.29,0,Lakshmi Rao,2024-09-06
+TND-1036,IT & Digital,Training,COMP002,BlueHorizon Services,27070274.37,33051838.17,1,Suman Reddy,2025-03-12
+TND-1036,IT & Digital,Training,COMP003,CrestLine Solutions,27907499.35,33051838.17,0,Priya Shah,2025-03-12
+TND-1036,IT & Digital,Training,COMP012,Lumencraft Industries,30262464.94,33051838.17,0,Amit Patel,2025-03-12
+TND-1036,IT & Digital,Training,COMP015,OmniGroup Services,29381517.99,33051838.17,0,Rajesh Kumar,2025-03-12
+TND-1036,IT & Digital,Training,COMP013,Meridian Works,29199226.91,33051838.17,0,Kavita Joshi,2025-03-12
+TND-1036,IT & Digital,Training,COMP005,Evergreen Constructions,35464052.02,33051838.17,0,Kavita Joshi,2025-03-12
+TND-1036,IT & Digital,Training,COMP004,Delta Engineering Co,30480583.92,33051838.17,0,Vikram Singh,2025-03-12
+TND-1037,Education,Infrastructure,COMP002,BlueHorizon Services,41180484.36,44656304.48,1,Amit Patel,2024-11-23
+TND-1037,Education,Infrastructure,COMP015,OmniGroup Services,45846436.92,44656304.48,0,Arun Sharma,2024-11-23
+TND-1037,Education,Infrastructure,COMP004,Delta Engineering Co,42454107.59,44656304.48,0,Vikram Singh,2024-11-23
+TND-1038,Transport,Software,COMP001,Apex Infrastructure Ltd,27040161.47,29056742.29,1,Priya Shah,2024-12-04
+TND-1038,Transport,Software,COMP004,Delta Engineering Co,27996867.67,29056742.29,0,Anand Mehta,2024-12-04
+TND-1038,Transport,Software,COMP007,GlobalEdge Infra,27483516.68,29056742.29,0,Deepa Verma,2024-12-04
+TND-1038,Transport,Software,COMP013,Meridian Works,27185445.18,29056742.29,0,Ravi Nair,2024-12-04
+TND-1038,Transport,Software,COMP010,JetStream Solutions,27907396.36,29056742.29,0,Vikram Singh,2024-12-04
+TND-1038,Transport,Software,COMP015,OmniGroup Services,27363033.84,29056742.29,0,Rajesh Kumar,2024-12-04
+TND-1039,Energy,Software,COMP013,Meridian Works,44856030.21,47052699.93,1,Ravi Nair,2025-07-05
+TND-1039,Energy,Software,COMP010,JetStream Solutions,45758881.34,47052699.93,0,Rajesh Kumar,2025-07-05
+TND-1039,Energy,Software,COMP004,Delta Engineering Co,45091293.71,47052699.93,0,Anand Mehta,2025-07-05
+TND-1039,Energy,Software,COMP008,HighPoint Services,46809398.48,47052699.93,0,Lakshmi Rao,2025-07-05
+TND-1039,Energy,Software,COMP015,OmniGroup Services,45868091.5,47052699.93,0,Rajesh Kumar,2025-07-05
+TND-1039,Energy,Software,COMP005,Evergreen Constructions,46881551.46,47052699.93,0,Suresh Iyer,2025-07-05
+TND-1039,Energy,Software,COMP007,GlobalEdge Infra,46875839.56,47052699.93,0,Mohan Das,2025-07-05
+TND-1040,Health & Sanitation,Security Services,COMP010,JetStream Solutions,37953181.96,42723968.05,0,Rajesh Kumar,2025-06-30
+TND-1040,Health & Sanitation,Security Services,COMP015,OmniGroup Services,39115045.36,42723968.05,0,Rajesh Kumar,2025-06-30
+TND-1040,Health & Sanitation,Security Services,COMP011,KingsBridge Corp,45088355.23,42723968.05,0,Suman Reddy,2025-06-30
+TND-1040,Health & Sanitation,Security Services,COMP001,Apex Infrastructure Ltd,38241224.13,42723968.05,0,Rajesh Kumar,2025-06-30
+TND-1040,Health & Sanitation,Security Services,COMP002,BlueHorizon Services,36351595.25,42723968.05,1,Suman Reddy,2025-06-30
+TND-1040,Health & Sanitation,Security Services,COMP007,GlobalEdge Infra,41315802.24,42723968.05,0,Mohan Das,2025-06-30
+TND-1041,Education,Consulting,COMP005,Evergreen Constructions,47252269.04,46839661.32,0,Suresh Iyer,2025-04-10
+TND-1041,Education,Consulting,COMP013,Meridian Works,45482170.7,46839661.32,0,Kavita Joshi,2025-04-10
+TND-1041,Education,Consulting,COMP007,GlobalEdge Infra,38837243.27,46839661.32,1,Mohan Das,2025-04-10
+TND-1041,Education,Consulting,COMP015,OmniGroup Services,46113748.12,46839661.32,0,Arun Sharma,2025-04-10
+TND-1041,Education,Consulting,COMP002,BlueHorizon Services,51383865.16,46839661.32,0,Amit Patel,2025-04-10
+TND-1041,Education,Consulting,COMP008,HighPoint Services,39440175.41,46839661.32,0,Mohan Das,2025-04-10
+TND-1042,Energy,Construction,COMP010,JetStream Solutions,27810772.11,26157317.79,0,Rajesh Kumar,2024-09-10
+TND-1042,Energy,Construction,COMP003,CrestLine Solutions,26738810.28,26157317.79,0,Neha Gupta,2024-09-10
+TND-1042,Energy,Construction,COMP004,Delta Engineering Co,26395472.9,26157317.79,1,Vikram Singh,2024-09-10
+TND-1043,IT & Digital,Consulting,COMP003,CrestLine Solutions,32970280.8,35272962.16,1,Priya Shah,2025-04-21
+TND-1043,IT & Digital,Consulting,COMP010,JetStream Solutions,33874354.07,35272962.16,0,Vikram Singh,2025-04-21
+TND-1043,IT & Digital,Consulting,COMP014,NovaTech Engineering,33875415.42,35272962.16,0,Pooja Bhat,2025-04-21
+TND-1043,IT & Digital,Consulting,COMP012,Lumencraft Industries,33955779.82,35272962.16,0,Lakshmi Rao,2025-04-21
+TND-1043,IT & Digital,Consulting,COMP002,BlueHorizon Services,34020919.43,35272962.16,0,Suman Reddy,2025-04-21
+TND-1044,IT & Digital,Software,COMP001,Apex Infrastructure Ltd,23795120.56,25811448.74,1,Rajesh Kumar,2025-02-10
+TND-1044,IT & Digital,Software,COMP010,JetStream Solutions,26522728.29,25811448.74,0,Vikram Singh,2025-02-10
+TND-1044,IT & Digital,Software,COMP012,Lumencraft Industries,25527280.74,25811448.74,0,Lakshmi Rao,2025-02-10
+TND-1044,IT & Digital,Software,COMP011,KingsBridge Corp,25876271.3,25811448.74,0,Suman Reddy,2025-02-10
+TND-1045,Education,Training,COMP009,InfraPrime Ltd,38027179.18,39891737.14,1,Arun Sharma,2025-03-14
+TND-1045,Education,Training,COMP011,KingsBridge Corp,38675980.01,39891737.14,0,Deepa Verma,2025-03-14
+TND-1045,Education,Training,COMP006,FusionTech Systems,38226637.87,39891737.14,0,Ravi Nair,2025-03-14
+TND-1046,Public Works,Software,COMP012,Lumencraft Industries,26445877.95,29124866.98,1,Amit Patel,2025-01-05
+TND-1046,Public Works,Software,COMP003,CrestLine Solutions,27188147.76,29124866.98,0,Neha Gupta,2025-01-05
+TND-1046,Public Works,Software,COMP007,GlobalEdge Infra,26889788.68,29124866.98,0,Mohan Das,2025-01-05
+TND-1046,Public Works,Software,COMP014,NovaTech Engineering,27244287.25,29124866.98,0,Neha Gupta,2025-01-05
+TND-1046,Public Works,Software,COMP009,InfraPrime Ltd,26591502.28,29124866.98,0,Pooja Bhat,2025-01-05
+TND-1046,Public Works,Software,COMP005,Evergreen Constructions,26599480.09,29124866.98,0,Suresh Iyer,2025-01-05
+TND-1047,Energy,Medical Equipment,COMP002,BlueHorizon Services,34106216.22,41218727.75,1,Suman Reddy,2024-10-12
+TND-1047,Energy,Medical Equipment,COMP008,HighPoint Services,35161047.65,41218727.75,0,Mohan Das,2024-10-12
+TND-1047,Energy,Medical Equipment,COMP010,JetStream Solutions,39396169.47,41218727.75,0,Vikram Singh,2024-10-12
+TND-1047,Energy,Medical Equipment,COMP015,OmniGroup Services,42051276.96,41218727.75,0,Rajesh Kumar,2024-10-12
+TND-1048,Health & Sanitation,Maintenance,COMP006,FusionTech Systems,11036274.27,11183140.86,0,Anand Mehta,2024-08-05
+TND-1048,Health & Sanitation,Maintenance,COMP005,Evergreen Constructions,9232848.5,11183140.86,0,Suresh Iyer,2024-08-05
+TND-1048,Health & Sanitation,Maintenance,COMP010,JetStream Solutions,9119901.88,11183140.86,1,Rajesh Kumar,2024-08-05
+TND-1048,Health & Sanitation,Maintenance,COMP012,Lumencraft Industries,10729176.8,11183140.86,0,Lakshmi Rao,2024-08-05
+TND-1048,Health & Sanitation,Maintenance,COMP014,NovaTech Engineering,10760312.3,11183140.86,0,Neha Gupta,2024-08-05
+TND-1049,Transport,Training,COMP012,Lumencraft Industries,30203930.77,32052780.12,1,Lakshmi Rao,2024-09-03
+TND-1049,Transport,Training,COMP008,HighPoint Services,30993646.66,32052780.12,0,Lakshmi Rao,2024-09-03
+TND-1049,Transport,Training,COMP014,NovaTech Engineering,30745758.32,32052780.12,0,Neha Gupta,2024-09-03
+TND-1049,Transport,Training,COMP001,Apex Infrastructure Ltd,31351209.33,32052780.12,0,Priya Shah,2024-09-03
+TND-1049,Transport,Training,COMP002,BlueHorizon Services,30678929.27,32052780.12,0,Suman Reddy,2024-09-03
+TND-1049,Transport,Training,COMP005,Evergreen Constructions,30894502.38,32052780.12,0,Kavita Joshi,2024-09-03
+TND-1049,Transport,Training,COMP004,Delta Engineering Co,30432282.01,32052780.12,0,Anand Mehta,2024-09-03
+TND-1049,Transport,Training,COMP007,GlobalEdge Infra,30364194.67,32052780.12,0,Mohan Das,2024-09-03
+TND-1050,Defense,Maintenance,COMP002,BlueHorizon Services,50596885.07,48151096.53,0,Amit Patel,2024-10-04
+TND-1050,Defense,Maintenance,COMP012,Lumencraft Industries,48574453.58,48151096.53,0,Lakshmi Rao,2024-10-04
+TND-1050,Defense,Maintenance,COMP004,Delta Engineering Co,44428337.03,48151096.53,0,Vikram Singh,2024-10-04
+TND-1050,Defense,Maintenance,COMP006,FusionTech Systems,41024170.68,48151096.53,1,Anand Mehta,2024-10-04
+TND-1051,Defense,Maintenance,COMP010,JetStream Solutions,7655940.85,8243633.61,1,Rajesh Kumar,2024-10-10
+TND-1051,Defense,Maintenance,COMP005,Evergreen Constructions,7840486.8,8243633.61,0,Kavita Joshi,2024-10-10
+TND-1051,Defense,Maintenance,COMP002,BlueHorizon Services,7822549.13,8243633.61,0,Amit Patel,2024-10-10
+TND-1051,Defense,Maintenance,COMP004,Delta Engineering Co,7697159.02,8243633.61,0,Vikram Singh,2024-10-10
+TND-1051,Defense,Maintenance,COMP014,NovaTech Engineering,7919714.5,8243633.61,0,Neha Gupta,2024-10-10
+TND-1051,Defense,Maintenance,COMP012,Lumencraft Industries,7848170.2,8243633.61,0,Lakshmi Rao,2024-10-10
+TND-1051,Defense,Maintenance,COMP006,FusionTech Systems,7787647.79,8243633.61,0,Anand Mehta,2024-10-10
+TND-1052,IT & Digital,Supplies,COMP002,BlueHorizon Services,28519549.71,30780176.94,1,Suman Reddy,2024-05-09
+TND-1052,IT & Digital,Supplies,COMP014,NovaTech Engineering,29094005.31,30780176.94,0,Neha Gupta,2024-05-09
+TND-1052,IT & Digital,Supplies,COMP001,Apex Infrastructure Ltd,29588794.72,30780176.94,0,Priya Shah,2024-05-09
+TND-1052,IT & Digital,Supplies,COMP010,JetStream Solutions,28673450.59,30780176.94,0,Rajesh Kumar,2024-05-09
+TND-1052,IT & Digital,Supplies,COMP005,Evergreen Constructions,28798638.68,30780176.94,0,Suresh Iyer,2024-05-09
+TND-1052,IT & Digital,Supplies,COMP008,HighPoint Services,28712368.0,30780176.94,0,Lakshmi Rao,2024-05-09
+TND-1053,Energy,Maintenance,COMP008,HighPoint Services,2622807.02,2516075.71,0,Mohan Das,2024-04-26
+TND-1053,Energy,Maintenance,COMP002,BlueHorizon Services,2523500.76,2516075.71,0,Suman Reddy,2024-04-26
+TND-1053,Energy,Maintenance,COMP010,JetStream Solutions,2373376.97,2516075.71,0,Rajesh Kumar,2024-04-26
+TND-1053,Energy,Maintenance,COMP011,KingsBridge Corp,2127183.2,2516075.71,0,Suman Reddy,2024-04-26
+TND-1053,Energy,Maintenance,COMP012,Lumencraft Industries,2384787.2,2516075.71,0,Lakshmi Rao,2024-04-26
+TND-1053,Energy,Maintenance,COMP001,Apex Infrastructure Ltd,2063367.7,2516075.71,1,Priya Shah,2024-04-26
+TND-1054,IT & Digital,Security Services,COMP007,GlobalEdge Infra,8439758.96,9073492.56,0,Deepa Verma,2025-09-25
+TND-1054,IT & Digital,Security Services,COMP008,HighPoint Services,8343542.97,9073492.56,0,Mohan Das,2025-09-25
+TND-1054,IT & Digital,Security Services,COMP014,NovaTech Engineering,8935167.43,9073492.56,0,Pooja Bhat,2025-09-25
+TND-1054,IT & Digital,Security Services,COMP005,Evergreen Constructions,8987549.3,9073492.56,0,Suresh Iyer,2025-09-25
+TND-1054,IT & Digital,Security Services,COMP010,JetStream Solutions,7382113.73,9073492.56,1,Vikram Singh,2025-09-25
+TND-1054,IT & Digital,Security Services,COMP015,OmniGroup Services,8278507.48,9073492.56,0,Arun Sharma,2025-09-25
+TND-1054,IT & Digital,Security Services,COMP012,Lumencraft Industries,8962414.63,9073492.56,0,Lakshmi Rao,2025-09-25
+TND-1055,Health & Sanitation,IT Services,COMP007,GlobalEdge Infra,26851996.07,25405244.8,0,Mohan Das,2025-07-19
+TND-1055,Health & Sanitation,IT Services,COMP008,HighPoint Services,25344477.73,25405244.8,0,Lakshmi Rao,2025-07-19
+TND-1055,Health & Sanitation,IT Services,COMP012,Lumencraft Industries,21566012.54,25405244.8,1,Lakshmi Rao,2025-07-19
+TND-1056,Health & Sanitation,Supplies,COMP002,BlueHorizon Services,3746301.94,3993153.0,1,Amit Patel,2024-10-16
+TND-1056,Health & Sanitation,Supplies,COMP011,KingsBridge Corp,3855596.81,3993153.0,0,Deepa Verma,2024-10-16
+TND-1056,Health & Sanitation,Supplies,COMP004,Delta Engineering Co,3912212.48,3993153.0,0,Vikram Singh,2024-10-16
+TND-1056,Health & Sanitation,Supplies,COMP005,Evergreen Constructions,3853951.41,3993153.0,0,Suresh Iyer,2024-10-16
+TND-1056,Health & Sanitation,Supplies,COMP014,NovaTech Engineering,3824034.03,3993153.0,0,Pooja Bhat,2024-10-16
+TND-1056,Health & Sanitation,Supplies,COMP010,JetStream Solutions,3864783.08,3993153.0,0,Vikram Singh,2024-10-16
+TND-1057,Energy,IT Services,COMP010,JetStream Solutions,22341609.47,23183518.08,0,Rajesh Kumar,2024-03-14
+TND-1057,Energy,IT Services,COMP012,Lumencraft Industries,25094754.39,23183518.08,0,Amit Patel,2024-03-14
+TND-1057,Energy,IT Services,COMP015,OmniGroup Services,21232179.71,23183518.08,1,Rajesh Kumar,2024-03-14
+TND-1057,Energy,IT Services,COMP005,Evergreen Constructions,25231948.11,23183518.08,0,Kavita Joshi,2024-03-14
+TND-1057,Energy,IT Services,COMP008,HighPoint Services,24843578.36,23183518.08,0,Lakshmi Rao,2024-03-14
+TND-1058,IT & Digital,Training,COMP001,Apex Infrastructure Ltd,8365401.0,10191661.17,0,Rajesh Kumar,2025-05-20
+TND-1058,IT & Digital,Training,COMP007,GlobalEdge Infra,8461457.51,10191661.17,0,Deepa Verma,2025-05-20
+TND-1058,IT & Digital,Training,COMP012,Lumencraft Industries,8209042.14,10191661.17,1,Lakshmi Rao,2025-05-20
+TND-1058,IT & Digital,Training,COMP006,FusionTech Systems,8442088.13,10191661.17,0,Ravi Nair,2025-05-20
+TND-1058,IT & Digital,Training,COMP010,JetStream Solutions,10241621.02,10191661.17,0,Rajesh Kumar,2025-05-20
+TND-1058,IT & Digital,Training,COMP005,Evergreen Constructions,8370988.11,10191661.17,0,Suresh Iyer,2025-05-20
+TND-1058,IT & Digital,Training,COMP015,OmniGroup Services,9128596.4,10191661.17,0,Rajesh Kumar,2025-05-20
+TND-1059,IT & Digital,Maintenance,COMP007,GlobalEdge Infra,34152532.08,42321327.89,1,Mohan Das,2024-10-11
+TND-1059,IT & Digital,Maintenance,COMP011,KingsBridge Corp,44197878.62,42321327.89,0,Deepa Verma,2024-10-11
+TND-1059,IT & Digital,Maintenance,COMP008,HighPoint Services,37435602.81,42321327.89,0,Mohan Das,2024-10-11
+TND-1059,IT & Digital,Maintenance,COMP002,BlueHorizon Services,35357330.04,42321327.89,0,Amit Patel,2024-10-11
+TND-1059,IT & Digital,Maintenance,COMP013,Meridian Works,42703114.92,42321327.89,0,Ravi Nair,2024-10-11
+TND-1059,IT & Digital,Maintenance,COMP006,FusionTech Systems,41842371.24,42321327.89,0,Ravi Nair,2024-10-11
+TND-1059,IT & Digital,Maintenance,COMP015,OmniGroup Services,44997796.55,42321327.89,0,Rajesh Kumar,2024-10-11
+TND-1060,Education,Software,COMP006,FusionTech Systems,38399976.63,36886016.67,0,Anand Mehta,2025-07-17
+TND-1060,Education,Software,COMP005,Evergreen Constructions,32629752.92,36886016.67,0,Kavita Joshi,2025-07-17
+TND-1060,Education,Software,COMP015,OmniGroup Services,31472324.73,36886016.67,1,Arun Sharma,2025-07-17
+TND-1061,Defense,Training,COMP009,InfraPrime Ltd,39238856.93,37655430.21,0,Pooja Bhat,2025-04-18
+TND-1061,Defense,Training,COMP006,FusionTech Systems,41313713.34,37655430.21,0,Anand Mehta,2025-04-18
+TND-1061,Defense,Training,COMP010,JetStream Solutions,34785533.01,37655430.21,0,Rajesh Kumar,2025-04-18
+TND-1061,Defense,Training,COMP008,HighPoint Services,34326894.49,37655430.21,1,Lakshmi Rao,2025-04-18
+TND-1062,IT & Digital,IT Services,COMP008,HighPoint Services,35126447.42,38932441.56,0,Mohan Das,2024-10-21
+TND-1062,IT & Digital,IT Services,COMP002,BlueHorizon Services,42016949.8,38932441.56,0,Suman Reddy,2024-10-21
+TND-1062,IT & Digital,IT Services,COMP001,Apex Infrastructure Ltd,41171984.54,38932441.56,0,Rajesh Kumar,2024-10-21
+TND-1062,IT & Digital,IT Services,COMP011,KingsBridge Corp,36156488.72,38932441.56,0,Suman Reddy,2024-10-21
+TND-1062,IT & Digital,IT Services,COMP010,JetStream Solutions,39915926.44,38932441.56,0,Rajesh Kumar,2024-10-21
+TND-1062,IT & Digital,IT Services,COMP004,Delta Engineering Co,39958812.15,38932441.56,0,Anand Mehta,2024-10-21
+TND-1062,IT & Digital,IT Services,COMP003,CrestLine Solutions,32350412.45,38932441.56,1,Priya Shah,2024-10-21
+TND-1062,IT & Digital,IT Services,COMP005,Evergreen Constructions,41687529.74,38932441.56,0,Suresh Iyer,2024-10-21
+TND-1063,Transport,Supplies,COMP014,NovaTech Engineering,24151748.08,25509992.44,1,Pooja Bhat,2025-06-05
+TND-1063,Transport,Supplies,COMP008,HighPoint Services,25182030.94,25509992.44,0,Lakshmi Rao,2025-06-05
+TND-1063,Transport,Supplies,COMP015,OmniGroup Services,24665380.58,25509992.44,0,Arun Sharma,2025-06-05
+TND-1063,Transport,Supplies,COMP004,Delta Engineering Co,24279298.04,25509992.44,0,Vikram Singh,2025-06-05
+TND-1063,Transport,Supplies,COMP013,Meridian Works,25192090.8,25509992.44,0,Kavita Joshi,2025-06-05
+TND-1063,Transport,Supplies,COMP009,InfraPrime Ltd,24361388.2,25509992.44,0,Pooja Bhat,2025-06-05
+TND-1064,Energy,Software,COMP005,Evergreen Constructions,17398791.45,16306025.06,0,Kavita Joshi,2024-12-14
+TND-1064,Energy,Software,COMP014,NovaTech Engineering,17401102.78,16306025.06,0,Neha Gupta,2024-12-14
+TND-1064,Energy,Software,COMP001,Apex Infrastructure Ltd,14175606.31,16306025.06,1,Priya Shah,2024-12-14
+TND-1064,Energy,Software,COMP015,OmniGroup Services,16049656.44,16306025.06,0,Rajesh Kumar,2024-12-14
+TND-1064,Energy,Software,COMP012,Lumencraft Industries,15272155.17,16306025.06,0,Amit Patel,2024-12-14
+TND-1064,Energy,Software,COMP010,JetStream Solutions,14614027.12,16306025.06,0,Vikram Singh,2024-12-14
+TND-1064,Energy,Software,COMP008,HighPoint Services,14764335.75,16306025.06,0,Lakshmi Rao,2024-12-14
+TND-1065,Energy,Consulting,COMP014,NovaTech Engineering,31974042.59,33789663.58,1,Neha Gupta,2024-09-01
+TND-1065,Energy,Consulting,COMP013,Meridian Works,33086955.23,33789663.58,0,Ravi Nair,2024-09-01
+TND-1065,Energy,Consulting,COMP007,GlobalEdge Infra,32142990.91,33789663.58,0,Mohan Das,2024-09-01
+TND-1065,Energy,Consulting,COMP001,Apex Infrastructure Ltd,32687969.8,33789663.58,0,Priya Shah,2024-09-01
+TND-1066,Defense,IT Services,COMP009,InfraPrime Ltd,3224829.51,3349158.62,0,Arun Sharma,2025-05-22
+TND-1066,Defense,IT Services,COMP010,JetStream Solutions,3130786.55,3349158.62,0,Vikram Singh,2025-05-22
+TND-1066,Defense,IT Services,COMP006,FusionTech Systems,3519306.22,3349158.62,0,Anand Mehta,2025-05-22
+TND-1066,Defense,IT Services,COMP002,BlueHorizon Services,2960323.87,3349158.62,1,Amit Patel,2025-05-22
+TND-1067,Transport,IT Services,COMP006,FusionTech Systems,5305885.8,6294817.31,0,Anand Mehta,2024-03-17
+TND-1067,Transport,IT Services,COMP010,JetStream Solutions,6473924.94,6294817.31,0,Vikram Singh,2024-03-17
+TND-1067,Transport,IT Services,COMP012,Lumencraft Industries,6203324.78,6294817.31,0,Amit Patel,2024-03-17
+TND-1067,Transport,IT Services,COMP007,GlobalEdge Infra,5226818.48,6294817.31,0,Mohan Das,2024-03-17
+TND-1067,Transport,IT Services,COMP011,KingsBridge Corp,5194684.94,6294817.31,1,Deepa Verma,2024-03-17
+TND-1068,Energy,Training,COMP011,KingsBridge Corp,32096752.67,35197972.01,1,Suman Reddy,2024-02-06
+TND-1068,Energy,Training,COMP015,OmniGroup Services,33152541.81,35197972.01,0,Rajesh Kumar,2024-02-06
+TND-1068,Energy,Training,COMP005,Evergreen Constructions,32272742.53,35197972.01,0,Suresh Iyer,2024-02-06
+TND-1068,Energy,Training,COMP004,Delta Engineering Co,32277654.66,35197972.01,0,Vikram Singh,2024-02-06
+TND-1069,Transport,IT Services,COMP002,BlueHorizon Services,43855947.49,49338659.14,1,Suman Reddy,2024-11-02
+TND-1069,Transport,IT Services,COMP013,Meridian Works,45212317.0,49338659.14,0,Ravi Nair,2024-11-02
+TND-1069,Transport,IT Services,COMP001,Apex Infrastructure Ltd,50884335.1,49338659.14,0,Priya Shah,2024-11-02
+TND-1070,Health & Sanitation,Consulting,COMP013,Meridian Works,51928667.18,47388804.58,0,Ravi Nair,2025-06-27
+TND-1070,Health & Sanitation,Consulting,COMP003,CrestLine Solutions,48621551.14,47388804.58,0,Priya Shah,2025-06-27
+TND-1070,Health & Sanitation,Consulting,COMP014,NovaTech Engineering,43260191.26,47388804.58,0,Pooja Bhat,2025-06-27
+TND-1070,Health & Sanitation,Consulting,COMP015,OmniGroup Services,39098143.41,47388804.58,1,Rajesh Kumar,2025-06-27
+TND-1070,Health & Sanitation,Consulting,COMP002,BlueHorizon Services,48959462.66,47388804.58,0,Suman Reddy,2025-06-27
+TND-1070,Health & Sanitation,Consulting,COMP010,JetStream Solutions,45849676.62,47388804.58,0,Vikram Singh,2025-06-27
+TND-1070,Health & Sanitation,Consulting,COMP007,GlobalEdge Infra,43942055.83,47388804.58,0,Mohan Das,2025-06-27
+TND-1070,Health & Sanitation,Consulting,COMP004,Delta Engineering Co,50796358.91,47388804.58,0,Vikram Singh,2025-06-27
+TND-1071,Energy,Maintenance,COMP002,BlueHorizon Services,5584488.86,6004275.37,1,Suman Reddy,2024-10-21
+TND-1071,Energy,Maintenance,COMP008,HighPoint Services,5724342.13,6004275.37,0,Lakshmi Rao,2024-10-21
+TND-1071,Energy,Maintenance,COMP006,FusionTech Systems,5625305.84,6004275.37,0,Ravi Nair,2024-10-21
+TND-1071,Energy,Maintenance,COMP010,JetStream Solutions,5640320.05,6004275.37,0,Vikram Singh,2024-10-21
+TND-1072,Energy,Supplies,COMP002,BlueHorizon Services,5480199.69,6317549.22,1,Suman Reddy,2024-07-22
+TND-1072,Energy,Supplies,COMP004,Delta Engineering Co,6405815.92,6317549.22,0,Vikram Singh,2024-07-22
+TND-1072,Energy,Supplies,COMP007,GlobalEdge Infra,6138610.19,6317549.22,0,Mohan Das,2024-07-22
+TND-1072,Energy,Supplies,COMP010,JetStream Solutions,6760819.19,6317549.22,0,Vikram Singh,2024-07-22
+TND-1072,Energy,Supplies,COMP006,FusionTech Systems,5796138.83,6317549.22,0,Anand Mehta,2024-07-22
+TND-1072,Energy,Supplies,COMP012,Lumencraft Industries,5649690.4,6317549.22,0,Lakshmi Rao,2024-07-22
+TND-1073,IT & Digital,Maintenance,COMP010,JetStream Solutions,39870988.52,43495656.85,1,Rajesh Kumar,2024-10-20
+TND-1073,IT & Digital,Maintenance,COMP013,Meridian Works,40088466.8,43495656.85,0,Ravi Nair,2024-10-20
+TND-1073,IT & Digital,Maintenance,COMP006,FusionTech Systems,41754740.79,43495656.85,0,Anand Mehta,2024-10-20
+TND-1073,IT & Digital,Maintenance,COMP004,Delta Engineering Co,40142410.88,43495656.85,0,Vikram Singh,2024-10-20
+TND-1074,Defense,Construction,COMP010,JetStream Solutions,41682250.03,44611584.13,1,Rajesh Kumar,2024-11-12
+TND-1074,Defense,Construction,COMP006,FusionTech Systems,41905307.95,44611584.13,0,Anand Mehta,2024-11-12
+TND-1074,Defense,Construction,COMP012,Lumencraft Industries,42761953.36,44611584.13,0,Amit Patel,2024-11-12
+TND-1075,Education,Software,COMP015,OmniGroup Services,46392390.08,48480475.51,0,Rajesh Kumar,2024-06-28
+TND-1075,Education,Software,COMP006,FusionTech Systems,47938443.99,48480475.51,0,Ravi Nair,2024-06-28
+TND-1075,Education,Software,COMP009,InfraPrime Ltd,48903448.59,48480475.51,0,Pooja Bhat,2024-06-28
+TND-1075,Education,Software,COMP013,Meridian Works,45395290.5,48480475.51,1,Kavita Joshi,2024-06-28
+TND-1075,Education,Software,COMP005,Evergreen Constructions,47911674.65,48480475.51,0,Kavita Joshi,2024-06-28
+TND-1075,Education,Software,COMP003,CrestLine Solutions,47282731.11,48480475.51,0,Priya Shah,2024-06-28
+TND-1075,Education,Software,COMP011,KingsBridge Corp,51890951.07,48480475.51,0,Suman Reddy,2024-06-28
+TND-1076,Energy,Consulting,COMP014,NovaTech Engineering,2547701.27,2749595.83,1,Pooja Bhat,2025-11-23
+TND-1076,Energy,Consulting,COMP013,Meridian Works,2638673.59,2749595.83,0,Ravi Nair,2025-11-23
+TND-1076,Energy,Consulting,COMP009,InfraPrime Ltd,2590873.84,2749595.83,0,Arun Sharma,2025-11-23
+TND-1076,Energy,Consulting,COMP006,FusionTech Systems,2608963.53,2749595.83,0,Ravi Nair,2025-11-23
+TND-1076,Energy,Consulting,COMP002,BlueHorizon Services,2571266.41,2749595.83,0,Suman Reddy,2025-11-23
+TND-1076,Energy,Consulting,COMP007,GlobalEdge Infra,2561449.25,2749595.83,0,Mohan Das,2025-11-23
+TND-1077,IT & Digital,Software,COMP001,Apex Infrastructure Ltd,19114362.55,23453071.04,1,Priya Shah,2025-10-15
+TND-1077,IT & Digital,Software,COMP004,Delta Engineering Co,22790535.6,23453071.04,0,Vikram Singh,2025-10-15
+TND-1077,IT & Digital,Software,COMP008,HighPoint Services,19705528.4,23453071.04,0,Mohan Das,2025-10-15
+TND-1078,Defense,Maintenance,COMP003,CrestLine Solutions,47109341.99,48732542.98,1,Neha Gupta,2024-11-05
+TND-1078,Defense,Maintenance,COMP001,Apex Infrastructure Ltd,47794655.56,48732542.98,0,Priya Shah,2024-11-05
+TND-1078,Defense,Maintenance,COMP014,NovaTech Engineering,47353004.7,48732542.98,0,Pooja Bhat,2024-11-05
+TND-1079,Public Works,Consulting,COMP006,FusionTech Systems,41003870.11,40782853.48,0,Anand Mehta,2025-07-04
+TND-1079,Public Works,Consulting,COMP011,KingsBridge Corp,34615877.63,40782853.48,1,Deepa Verma,2025-07-04
+TND-1079,Public Works,Consulting,COMP012,Lumencraft Industries,43771345.75,40782853.48,0,Lakshmi Rao,2025-07-04
+TND-1079,Public Works,Consulting,COMP013,Meridian Works,42689907.54,40782853.48,0,Ravi Nair,2025-07-04
+TND-1079,Public Works,Consulting,COMP009,InfraPrime Ltd,44246947.99,40782853.48,0,Pooja Bhat,2025-07-04
+TND-1079,Public Works,Consulting,COMP007,GlobalEdge Infra,41505356.5,40782853.48,0,Mohan Das,2025-07-04
+TND-1080,Public Works,Infrastructure,COMP014,NovaTech Engineering,28563844.23,30864052.2,0,Neha Gupta,2024-08-10
+TND-1080,Public Works,Infrastructure,COMP006,FusionTech Systems,33327575.94,30864052.2,0,Ravi Nair,2024-08-10
+TND-1080,Public Works,Infrastructure,COMP002,BlueHorizon Services,32710314.09,30864052.2,0,Amit Patel,2024-08-10
+TND-1080,Public Works,Infrastructure,COMP011,KingsBridge Corp,25109931.18,30864052.2,1,Deepa Verma,2024-08-10
+TND-1081,Education,Consulting,COMP001,Apex Infrastructure Ltd,1504307.63,1805165.24,1,Rajesh Kumar,2024-05-05
+TND-1081,Education,Consulting,COMP011,KingsBridge Corp,1860663.0,1805165.24,0,Deepa Verma,2024-05-05
+TND-1081,Education,Consulting,COMP004,Delta Engineering Co,1943606.6,1805165.24,0,Vikram Singh,2024-05-05
+TND-1081,Education,Consulting,COMP014,NovaTech Engineering,1550832.61,1805165.24,0,Pooja Bhat,2024-05-05
+TND-1081,Education,Consulting,COMP012,Lumencraft Industries,1759086.57,1805165.24,0,Lakshmi Rao,2024-05-05
+TND-1081,Education,Consulting,COMP010,JetStream Solutions,1659003.94,1805165.24,0,Rajesh Kumar,2024-05-05
+TND-1082,Energy,Training,COMP006,FusionTech Systems,46475359.22,48510762.69,1,Anand Mehta,2024-07-31
+TND-1082,Energy,Training,COMP013,Meridian Works,47096852.12,48510762.69,0,Ravi Nair,2024-07-31
+TND-1082,Energy,Training,COMP003,CrestLine Solutions,46992314.03,48510762.69,0,Priya Shah,2024-07-31
+TND-1082,Energy,Training,COMP010,JetStream Solutions,46717913.03,48510762.69,0,Rajesh Kumar,2024-07-31
+TND-1083,IT & Digital,Supplies,COMP003,CrestLine Solutions,3486102.95,3290587.08,0,Priya Shah,2024-06-27
+TND-1083,IT & Digital,Supplies,COMP001,Apex Infrastructure Ltd,3434946.13,3290587.08,1,Priya Shah,2024-06-27
+TND-1083,IT & Digital,Supplies,COMP006,FusionTech Systems,3619367.08,3290587.08,0,Anand Mehta,2024-06-27
+TND-1084,Health & Sanitation,Supplies,COMP009,InfraPrime Ltd,48170554.43,49833523.44,0,Pooja Bhat,2024-02-23
+TND-1084,Health & Sanitation,Supplies,COMP002,BlueHorizon Services,51363224.47,49833523.44,0,Amit Patel,2024-02-23
+TND-1084,Health & Sanitation,Supplies,COMP012,Lumencraft Industries,53991120.3,49833523.44,0,Amit Patel,2024-02-23
+TND-1084,Health & Sanitation,Supplies,COMP014,NovaTech Engineering,52569095.7,49833523.44,0,Pooja Bhat,2024-02-23
+TND-1084,Health & Sanitation,Supplies,COMP008,HighPoint Services,43564686.98,49833523.44,1,Mohan Das,2024-02-23
+TND-1084,Health & Sanitation,Supplies,COMP011,KingsBridge Corp,46602479.27,49833523.44,0,Deepa Verma,2024-02-23
+TND-1085,Transport,Construction,COMP001,Apex Infrastructure Ltd,5880501.78,6893391.05,1,Priya Shah,2024-03-03
+TND-1085,Transport,Construction,COMP011,KingsBridge Corp,6739016.35,6893391.05,0,Suman Reddy,2024-03-03
+TND-1085,Transport,Construction,COMP002,BlueHorizon Services,6062372.97,6893391.05,0,Amit Patel,2024-03-03
+TND-1085,Transport,Construction,COMP008,HighPoint Services,6856457.49,6893391.05,0,Mohan Das,2024-03-03
+TND-1085,Transport,Construction,COMP012,Lumencraft Industries,6760440.58,6893391.05,0,Amit Patel,2024-03-03
+TND-1085,Transport,Construction,COMP013,Meridian Works,6294509.14,6893391.05,0,Ravi Nair,2024-03-03
+TND-1086,Transport,Security Services,COMP010,JetStream Solutions,6130110.82,6121100.81,0,Vikram Singh,2025-06-27
+TND-1086,Transport,Security Services,COMP007,GlobalEdge Infra,5852337.41,6121100.81,0,Mohan Das,2025-06-27
+TND-1086,Transport,Security Services,COMP002,BlueHorizon Services,6315112.27,6121100.81,0,Amit Patel,2025-06-27
+TND-1086,Transport,Security Services,COMP012,Lumencraft Industries,5852072.62,6121100.81,1,Amit Patel,2025-06-27
+TND-1086,Transport,Security Services,COMP013,Meridian Works,6461767.31,6121100.81,0,Ravi Nair,2025-06-27
+TND-1086,Transport,Security Services,COMP009,InfraPrime Ltd,5910363.87,6121100.81,0,Pooja Bhat,2025-06-27
+TND-1086,Transport,Security Services,COMP004,Delta Engineering Co,5926948.01,6121100.81,0,Anand Mehta,2025-06-27
+TND-1087,Transport,Medical Equipment,COMP005,Evergreen Constructions,40428668.51,43894353.33,0,Suresh Iyer,2024-11-16
+TND-1087,Transport,Medical Equipment,COMP006,FusionTech Systems,36880236.2,43894353.33,0,Ravi Nair,2024-11-16
+TND-1087,Transport,Medical Equipment,COMP003,CrestLine Solutions,35494501.75,43894353.33,1,Priya Shah,2024-11-16
+TND-1087,Transport,Medical Equipment,COMP011,KingsBridge Corp,45059361.12,43894353.33,0,Deepa Verma,2024-11-16
+TND-1087,Transport,Medical Equipment,COMP008,HighPoint Services,43283908.65,43894353.33,0,Mohan Das,2024-11-16
+TND-1087,Transport,Medical Equipment,COMP002,BlueHorizon Services,44387020.5,43894353.33,0,Amit Patel,2024-11-16
+TND-1087,Transport,Medical Equipment,COMP010,JetStream Solutions,37919859.91,43894353.33,0,Vikram Singh,2024-11-16
+TND-1087,Transport,Medical Equipment,COMP009,InfraPrime Ltd,36911263.98,43894353.33,0,Arun Sharma,2024-11-16
+TND-1088,Transport,Infrastructure,COMP002,BlueHorizon Services,1077506.15,1219960.95,1,Amit Patel,2025-11-12
+TND-1088,Transport,Infrastructure,COMP012,Lumencraft Industries,1187483.88,1219960.95,0,Lakshmi Rao,2025-11-12
+TND-1088,Transport,Infrastructure,COMP001,Apex Infrastructure Ltd,1124783.81,1219960.95,0,Rajesh Kumar,2025-11-12
+TND-1088,Transport,Infrastructure,COMP005,Evergreen Constructions,1139130.58,1219960.95,0,Kavita Joshi,2025-11-12
+TND-1088,Transport,Infrastructure,COMP010,JetStream Solutions,1287157.94,1219960.95,0,Rajesh Kumar,2025-11-12
+TND-1088,Transport,Infrastructure,COMP015,OmniGroup Services,1110831.08,1219960.95,0,Arun Sharma,2025-11-12
+TND-1089,Education,Training,COMP010,JetStream Solutions,26852954.48,25942479.71,0,Rajesh Kumar,2025-01-11
+TND-1089,Education,Training,COMP004,Delta Engineering Co,23840174.69,25942479.71,1,Anand Mehta,2025-01-11
+TND-1089,Education,Training,COMP013,Meridian Works,25595525.25,25942479.71,0,Kavita Joshi,2025-01-11
+TND-1089,Education,Training,COMP007,GlobalEdge Infra,27465539.67,25942479.71,0,Deepa Verma,2025-01-11
+TND-1089,Education,Training,COMP009,InfraPrime Ltd,28143859.62,25942479.71,0,Pooja Bhat,2025-01-11
+TND-1090,Defense,Supplies,COMP014,NovaTech Engineering,8386803.53,7780137.31,0,Neha Gupta,2024-12-13
+TND-1090,Defense,Supplies,COMP003,CrestLine Solutions,7372729.55,7780137.31,0,Priya Shah,2024-12-13
+TND-1090,Defense,Supplies,COMP010,JetStream Solutions,6826862.89,7780137.31,1,Rajesh Kumar,2024-12-13
+TND-1090,Defense,Supplies,COMP011,KingsBridge Corp,7295751.62,7780137.31,0,Suman Reddy,2024-12-13
+TND-1091,Public Works,Training,COMP006,FusionTech Systems,46452492.12,49011612.48,0,Anand Mehta,2024-08-08
+TND-1091,Public Works,Training,COMP003,CrestLine Solutions,44043083.94,49011612.48,0,Priya Shah,2024-08-08
+TND-1091,Public Works,Training,COMP015,OmniGroup Services,48522489.15,49011612.48,0,Arun Sharma,2024-08-08
+TND-1091,Public Works,Training,COMP005,Evergreen Constructions,42740267.19,49011612.48,0,Suresh Iyer,2024-08-08
+TND-1091,Public Works,Training,COMP013,Meridian Works,40324745.2,49011612.48,1,Kavita Joshi,2024-08-08
+TND-1091,Public Works,Training,COMP010,JetStream Solutions,41104270.88,49011612.48,0,Rajesh Kumar,2024-08-08
+TND-1092,Education,Maintenance,COMP008,HighPoint Services,5782240.67,6838269.03,0,Lakshmi Rao,2025-11-08
+TND-1092,Education,Maintenance,COMP007,GlobalEdge Infra,5755416.49,6838269.03,1,Deepa Verma,2025-11-08
+TND-1092,Education,Maintenance,COMP005,Evergreen Constructions,6785357.4,6838269.03,0,Kavita Joshi,2025-11-08
+TND-1092,Education,Maintenance,COMP004,Delta Engineering Co,5843738.71,6838269.03,0,Anand Mehta,2025-11-08
+TND-1092,Education,Maintenance,COMP009,InfraPrime Ltd,6179744.99,6838269.03,0,Pooja Bhat,2025-11-08
+TND-1092,Education,Maintenance,COMP002,BlueHorizon Services,7310359.35,6838269.03,0,Amit Patel,2025-11-08
+TND-1092,Education,Maintenance,COMP006,FusionTech Systems,6442938.39,6838269.03,0,Anand Mehta,2025-11-08
+TND-1093,Transport,Security Services,COMP004,Delta Engineering Co,28569381.36,33544108.06,0,Anand Mehta,2024-02-26
+TND-1093,Transport,Security Services,COMP013,Meridian Works,28770335.54,33544108.06,0,Kavita Joshi,2024-02-26
+TND-1093,Transport,Security Services,COMP003,CrestLine Solutions,27246556.83,33544108.06,1,Priya Shah,2024-02-26
+TND-1093,Transport,Security Services,COMP005,Evergreen Constructions,28535319.25,33544108.06,0,Kavita Joshi,2024-02-26
+TND-1093,Transport,Security Services,COMP012,Lumencraft Industries,29638805.78,33544108.06,0,Amit Patel,2024-02-26
+TND-1094,Health & Sanitation,IT Services,COMP009,InfraPrime Ltd,8467898.67,9262018.97,1,Arun Sharma,2025-01-24
+TND-1094,Health & Sanitation,IT Services,COMP015,OmniGroup Services,8640225.16,9262018.97,0,Rajesh Kumar,2025-01-24
+TND-1094,Health & Sanitation,IT Services,COMP011,KingsBridge Corp,8545958.16,9262018.97,0,Suman Reddy,2025-01-24
+TND-1094,Health & Sanitation,IT Services,COMP006,FusionTech Systems,8604470.46,9262018.97,0,Ravi Nair,2025-01-24
+TND-1095,Public Works,Maintenance,COMP001,Apex Infrastructure Ltd,20470414.57,25419154.91,1,Priya Shah,2024-03-20
+TND-1095,Public Works,Maintenance,COMP010,JetStream Solutions,21103520.18,25419154.91,0,Rajesh Kumar,2024-03-20
+TND-1095,Public Works,Maintenance,COMP015,OmniGroup Services,26126994.59,25419154.91,0,Rajesh Kumar,2024-03-20
+TND-1095,Public Works,Maintenance,COMP012,Lumencraft Industries,24993488.32,25419154.91,0,Lakshmi Rao,2024-03-20
+TND-1095,Public Works,Maintenance,COMP011,KingsBridge Corp,21384050.86,25419154.91,0,Deepa Verma,2024-03-20
+TND-1095,Public Works,Maintenance,COMP013,Meridian Works,26617170.92,25419154.91,0,Ravi Nair,2024-03-20
+TND-1095,Public Works,Maintenance,COMP005,Evergreen Constructions,26929734.56,25419154.91,0,Suresh Iyer,2024-03-20
+TND-1096,Transport,Medical Equipment,COMP009,InfraPrime Ltd,3111349.01,3523359.01,0,Pooja Bhat,2024-09-06
+TND-1096,Transport,Medical Equipment,COMP002,BlueHorizon Services,3670848.17,3523359.01,0,Amit Patel,2024-09-06
+TND-1096,Transport,Medical Equipment,COMP007,GlobalEdge Infra,3609603.46,3523359.01,0,Deepa Verma,2024-09-06
+TND-1096,Transport,Medical Equipment,COMP005,Evergreen Constructions,3013727.35,3523359.01,1,Suresh Iyer,2024-09-06
+TND-1096,Transport,Medical Equipment,COMP006,FusionTech Systems,3039971.06,3523359.01,0,Anand Mehta,2024-09-06
+TND-1096,Transport,Medical Equipment,COMP004,Delta Engineering Co,3210279.07,3523359.01,0,Anand Mehta,2024-09-06
+TND-1097,Education,IT Services,COMP004,Delta Engineering Co,24128294.35,24483887.77,0,Vikram Singh,2024-08-29
+TND-1097,Education,IT Services,COMP003,CrestLine Solutions,22296842.26,24483887.77,0,Priya Shah,2024-08-29
+TND-1097,Education,IT Services,COMP010,JetStream Solutions,22984504.64,24483887.77,0,Vikram Singh,2024-08-29
+TND-1097,Education,IT Services,COMP014,NovaTech Engineering,25077408.58,24483887.77,0,Neha Gupta,2024-08-29
+TND-1097,Education,IT Services,COMP011,KingsBridge Corp,19856554.44,24483887.77,1,Deepa Verma,2024-08-29
+TND-1098,Defense,Security Services,COMP006,FusionTech Systems,12280276.05,12995628.75,1,Ravi Nair,2025-10-20
+TND-1098,Defense,Security Services,COMP014,NovaTech Engineering,12555526.28,12995628.75,0,Neha Gupta,2025-10-20
+TND-1098,Defense,Security Services,COMP011,KingsBridge Corp,12566149.45,12995628.75,0,Deepa Verma,2025-10-20
+TND-1098,Defense,Security Services,COMP015,OmniGroup Services,12345254.19,12995628.75,0,Rajesh Kumar,2025-10-20
+TND-1098,Defense,Security Services,COMP003,CrestLine Solutions,12522119.68,12995628.75,0,Priya Shah,2025-10-20
+TND-1098,Defense,Security Services,COMP008,HighPoint Services,12566411.33,12995628.75,0,Lakshmi Rao,2025-10-20
+TND-1098,Defense,Security Services,COMP002,BlueHorizon Services,12415585.75,12995628.75,0,Amit Patel,2025-10-20
+TND-1099,Education,Maintenance,COMP014,NovaTech Engineering,12627105.49,13827539.93,0,Neha Gupta,2025-04-07
+TND-1099,Education,Maintenance,COMP005,Evergreen Constructions,11145292.53,13827539.93,1,Kavita Joshi,2025-04-07
+TND-1099,Education,Maintenance,COMP002,BlueHorizon Services,12398100.7,13827539.93,0,Amit Patel,2025-04-07
+TND-1099,Education,Maintenance,COMP011,KingsBridge Corp,11939173.67,13827539.93,0,Deepa Verma,2025-04-07
+TND-1099,Education,Maintenance,COMP013,Meridian Works,12420576.76,13827539.93,0,Kavita Joshi,2025-04-07
